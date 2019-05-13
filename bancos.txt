@@ -1,0 +1,2 @@
+a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a
+nome;licenca;data_lancamento;data_ultima_atualizacao;suporte_windows;suporte_linux;suporte_mac;acid;max_banco;max_tabela;max_linha;max_blob;hash;regex;paraleto;cursor;protecao_forca_bruta;auditoria
